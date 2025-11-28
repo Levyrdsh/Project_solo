@@ -54,6 +54,13 @@ Canva (prototipação visual)
 
 ---> Prints / Demonstração
 
+TELA DE INICIO:
+<img width="680" height="547" alt="Captura de tela de 2025-11-28 19-56-43" src="https://github.com/user-attachments/assets/af89d961-e0c3-49e5-9f0d-8c21ba01a52c" />
+
+
+
+
+EXEMPLO PRATICO: IMC
 <img width="676" height="544" alt="image" src="https://github.com/user-attachments/assets/7386c4d7-4d98-4349-9961-f26a1b23d8f7" />
 
 
